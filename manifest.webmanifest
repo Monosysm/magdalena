@@ -1,0 +1,15 @@
+{
+  "name": "Magdalena · Properti di Lombok",
+  "short_name": "Magdalena",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#753037",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
